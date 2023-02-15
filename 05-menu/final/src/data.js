@@ -25,7 +25,7 @@ const menu = [
   },
   {
     id: 4,
-    title: 'country delight',
+    title: 'country delight shruti',
     category: 'breakfast',
     price: 20.99,
     img: './images/item-4.jpeg',
